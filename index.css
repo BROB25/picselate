@@ -751,7 +751,11 @@ span {
   html {
     font-size: 55%;
   }
-
+  
+  .home-practice-content h1 {
+    font-size: 40px;
+  }
+  
   .camera,
   .section-two {
     display: flex;
