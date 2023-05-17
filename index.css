@@ -801,6 +801,10 @@ span {
     order: 2;
     text-align: center;
   }
+  
+  .home-practice-content p {
+    font-size: 1.9rem;
+  }
 
   .socials-practice {
     justify-content: center;
