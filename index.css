@@ -759,7 +759,7 @@ span {
     align-items: flex-start;
     padding-top: 2px;
     background-attachment: fixed;
-    background-size: auto;
+    background-size: contain;
   }
 
   .home-practice-image {
