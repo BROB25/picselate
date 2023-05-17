@@ -841,7 +841,16 @@ span {
 
   .camera {
     background-size: contain;
-  }
+    display: flex;
+    height: 300px;
+    width: 100%;
+    margin: 10rem auto;
+    background-image: url(/images/camera2.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.35;
+    }
+  
 
   .about {
     display: flex;
@@ -877,6 +886,14 @@ span {
 
   .section-two {
     background-size: contain;
+    display: flex;
+    height: 300px;
+    width: 100%;
+    margin: 10rem auto;
+    background-image: url(/images/property.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.45;
   }
 
   .section-two h1 {
