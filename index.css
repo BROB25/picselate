@@ -758,7 +758,7 @@ span {
     justify-content: center;
     align-items: flex-start;
     padding-top: 2px;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
   }
 
