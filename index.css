@@ -828,6 +828,7 @@ span {
 
   .about h2 {
     text-align: center;
+    font-size: 30px;
   }
 
   .about-content p {
@@ -835,14 +836,14 @@ span {
   }
 
   .about-practice-image {
-    margin: 12rem auto 5rem;
+    margin: 5rem auto;
     padding: 0;
   }
 
   .about-content {
     margin-top: 0;
   }
-
+  
   .about-practice-image img {
     width: 300px;
     height: 300px;
@@ -867,6 +868,10 @@ span {
 
   .services .heading {
     margin-bottom: 10rem;
+  }
+  
+  .heading {
+    font-size: 30px;
   }
 
   .services-container {
