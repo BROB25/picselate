@@ -754,6 +754,10 @@ span {
 
   .camera,
   .section-two {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 10px;
     background-attachment: scroll;
     background-size: cover;
   }
@@ -781,7 +785,7 @@ span {
     justify-content: center;
     margin: 6rem auto;
     padding-top: 0;
-    height: 850px;
+    height: 1000px;
   }
 
   .home-practice-content {
@@ -794,7 +798,7 @@ span {
   }
 
   .camera h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   /* .camera {
@@ -805,11 +809,11 @@ span {
   .about {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     text-align: center;
     margin: 6rem auto;
     padding-top: 0;
-    height: 850px;
+    height: 650px;
   }
 
   .about h2 {
@@ -821,7 +825,7 @@ span {
   }
 
   .about-practice-image {
-    margin: 0 auto;
+    margin: 0 auto 6rem;
     padding: 0;
   }
 
@@ -839,7 +843,7 @@ span {
   } */
 
   .section-two h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     text-align: center;
   }
 
