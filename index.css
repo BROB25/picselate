@@ -802,7 +802,7 @@ span {
 
   .home-practice-image {
     margin-bottom: 6rem;
-    margin-top: 6rem;
+    margin-top: 10rem;
     margin-left: 0;
   }
 
@@ -839,6 +839,10 @@ span {
     font-size: 3rem;
   }
 
+  .camera {
+    background-size: contain;
+  }
+
   .about {
     display: flex;
     flex-direction: column;
@@ -869,6 +873,10 @@ span {
   .about-practice-image img {
     width: 300px;
     height: 300px;
+  }
+
+  .section-two {
+    background-size: contain;
   }
 
   .section-two h1 {
