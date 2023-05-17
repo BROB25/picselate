@@ -760,7 +760,7 @@ span {
     height: 400px;
     padding-top: 2px;
     background-attachment: scroll;
-    background-size: contain;
+    background-size: cover;
   }
 
   .home-practice-image {
