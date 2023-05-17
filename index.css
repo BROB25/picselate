@@ -758,7 +758,7 @@ span {
     justify-content: center;
     align-items: flex-start;
     height: 400px;
-    padding-top: 4px;
+    padding-top: 6px;
     background-attachment: scroll;
     background-size: cover;
   }
@@ -800,6 +800,7 @@ span {
 
   .camera h1 {
     font-size: 2.5rem;
+    text-align: center;
   }
 
   /* .camera {
@@ -844,7 +845,7 @@ span {
   } */
 
   .section-two h1 {
-    font-size: 2.6rem;
+    font-size: 2.7rem;
     text-align: center;
   }
 
