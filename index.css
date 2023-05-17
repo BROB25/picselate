@@ -794,7 +794,7 @@ span {
   }
 } */
 
-@media (max-width: 580px){
+@media (max-width: 480px){
 
   html {
     font-size: 55%;
@@ -802,6 +802,7 @@ span {
 
   .home-practice-image {
     margin-bottom: 6rem;
+    margin-top: 6rem;
     margin-left: 0;
   }
 
@@ -857,6 +858,8 @@ span {
   }
 
   .about-practice-image {
+    display: flex;
+    justify-content: center;
     margin: 4rem auto 6rem;
   }
 
@@ -884,11 +887,11 @@ span {
 
   .services-container {
     margin: 0 auto;
-    width: 400px;
+    width: 300px;
   }
 
   .contact form {
-    width: 400px;
+    width: 300px;
   }
 
 }
