@@ -792,7 +792,7 @@ span {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 3.5rem auto;
+    margin: 3.5rem auto 1rem;
     padding-top: 0;
     height: 900px;
   }
