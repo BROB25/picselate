@@ -765,7 +765,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    height: 600px;
+    height: 450px;
     padding-top: 10px;
     background-attachment: scroll;
     background-size: cover;
@@ -792,7 +792,7 @@ span {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 8rem auto 14rem;
+    margin: 8rem auto;
     padding-top: 0;
     height: 1000px;
   }
@@ -821,7 +821,7 @@ span {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin: 6rem auto;
+    margin: 9rem auto;
     padding-top: 0;
     height: 650px;
   }
