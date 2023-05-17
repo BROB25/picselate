@@ -7,7 +7,6 @@ menuIcon.onclick = () => {
   navbar.classList.toggle('active');
 };
 
-
 /* this code enables the navbar to highlight the current section of the webpage */
 let sections = document.querySelectorAll('section');
 let navLinks = document.querySelectorAll('header nav a');
@@ -52,11 +51,29 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 
 // typed js
-const typed = new Typed('.multiple-text', {
+const typed = new Typed('.typewriter', {
   strings: ['Content editor','Sales Consultant','Mother'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
   startDelay: 2400, // Adds a delay before typing begins
   loop: true
+});
+
+// swiper js
+var swiper = new Swiper(".mySwiper", {
+  effect: "coverflow",
+  grabCursor: true,
+  centeredSlides: true,
+  slidesPerView: "auto",
+  coverflowEffect: {
+    rotate: 50,
+    stretch: 0,
+    depth: 100,
+    modifier: 1,
+    slideShadows: true,
+  },
+  pagination: {
+    el: ".swiper-pagination",
+  },
 });
