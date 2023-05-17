@@ -749,7 +749,7 @@ span {
 @media (max-width: 480px){
 
   html {
-    font-size: 75%;
+    font-size: 55%;
   }
   
   .home-practice-content h1 {
@@ -833,6 +833,7 @@ span {
 
   .about-content p {
     margin-bottom: 40px;
+    font-size: 1.8rem;
   }
 
   .about-practice-image {
