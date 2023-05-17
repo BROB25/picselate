@@ -758,14 +758,14 @@ span {
     justify-content: center;
     align-items: flex-start;
     height: 600px;
-    padding-top: 6px;
+    padding-top: 10px;
     background-attachment: scroll;
     background-size: cover;
   }
 
   .home-practice-image {
     margin-bottom: 6rem;
-    margin-top: 6rem;
+    margin-top: 4rem;
     margin-left: 0;
   }
 
@@ -827,7 +827,7 @@ span {
   }
 
   .about-practice-image {
-    margin: 5rem auto;
+    margin: 8rem auto 5rem;
     padding: 0;
   }
 
