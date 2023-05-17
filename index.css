@@ -757,7 +757,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding-top: 10px;
+    padding-top: 5px;
     background-attachment: scroll;
     background-size: cover;
   }
@@ -783,7 +783,7 @@ span {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 6rem auto;
+    margin: 8rem auto;
     padding-top: 0;
     height: 1000px;
   }
