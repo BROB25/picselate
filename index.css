@@ -792,7 +792,7 @@ span {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 8rem auto;
+    margin: 5rem auto 8rem;
     padding-top: 0;
     height: 1000px;
   }
@@ -821,9 +821,9 @@ span {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin: 9rem auto;
+    margin: 10rem auto;
     padding-top: 0;
-    height: 650px;
+    height: 750px;
   }
 
   .about h2 {
