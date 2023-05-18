@@ -866,6 +866,10 @@ span {
   .services-practice {
     margin-bottom: 20rem;
   }
+  
+  .services-practice {
+    font-size: 1.9rem;
+  }
 
   .services {
     margin: 25rem auto;
