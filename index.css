@@ -867,6 +867,7 @@ span {
   .about-content p {
     margin-bottom: 40px;
     font-size: 1.9rem;
+    animation: slideRight 1s ease forwards;
   }
 
   .about-practice-image {
