@@ -584,11 +584,11 @@ span {
 }
 
 .services-box li {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   text-align: left;
   display: flex;
   align-items: center;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 
 .services-box li::before {
