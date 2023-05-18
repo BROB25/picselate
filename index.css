@@ -576,7 +576,7 @@ span {
 }
 
 .services-container .services-box:hover {
-  transform: scale(1.35);
+  transform: scale(1.5);
 }
 
 .services-box ul {
