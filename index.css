@@ -545,7 +545,7 @@ span {
 }
 
 .services-practice p {
-  margin: 2rem 0 0;
+  margin: 2rem auto 0;
   width: 60%;
   text-align: center;
   font-size: 1.5rem;
@@ -869,6 +869,8 @@ span {
   
   .services-practice p {
     font-size: 1.9rem;
+    width: 100%;
+    margin: 0 auto;
   }
 
   .services {
