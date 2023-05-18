@@ -570,8 +570,30 @@ span {
   padding: 3rem 2rem 4rem;
   border-radius: 2rem;
   text-align: center;
-  border: .2rem solid var(--bg-color);
+  border: solid;
+  border-image: linear-gradient(45deg, #f06, #3cf) 1;
   transition: .5s ease;
+}
+
+.services-container .services-box:hover {
+  transform: scale(1.35);
+}
+
+.services-box ul {
+  text-align: center;
+}
+
+.services-box li {
+  margin-top: 1.5rem;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+.services-box li::before {
+  content: "•";
+  margin-right: 0.5rem;
 }
 
 .services-container .services-box:hover {
