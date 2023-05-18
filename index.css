@@ -462,6 +462,14 @@ span {
   background-position: 100% 0;
 }
 
+.swipe {
+  color: #f06;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -4rem;
+  font-size: 1.3rem;
+}
+
 .swiper {
   width: 100%;
   padding-top: 50px;
