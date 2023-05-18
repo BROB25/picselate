@@ -228,6 +228,12 @@
   animation-delay: 2.1s;
 }
 
+.socials-practice a:nth-child(3) {
+  opacity: 0;
+  animation: slideLeft 1s ease forwards;
+  animation-delay: 2.1s;
+}
+
 .camera {
   display: flex;
   height: 300px;
@@ -318,6 +324,7 @@
   object-position: center 0.005px;
   border-radius: 50%;
   overflow: hidden;
+  animation: slideRight 1s ease forwards;
 }
 
 /* ===== PRACTICE ===== */
@@ -549,7 +556,7 @@ span {
   width: 60%;
   text-align: center;
   font-size: 1.5rem;
-
+  animation: slideRight 1s ease forwards;
 }
 
 .services h2 {
